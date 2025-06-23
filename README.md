@@ -6,7 +6,7 @@ This project presents a comprehensive **Stock Market Analysis Dashboard** built 
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/Apurv-8121/stock-market-analysis/blob/main/output.png)
 
 ---
 
