@@ -84,7 +84,6 @@ The dataset includes daily stock market data for four companies:
 
 ## 📬 Contact
 
-📧 yourname@email.com  
 🔗 [linkedin.com/in/apurv-parashar-6a4805211](https://www.linkedin.com/in/apurv-parashar-6a4805211/)
 
 ---
